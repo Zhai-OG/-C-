@@ -1,0 +1,5 @@
+﻿  Judge.cpp
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\翟伟伟-五子棋代码\ConsoleApplication1\ACMatcher.h(17,14): warning C4101: “character”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\翟伟伟-五子棋代码\ConsoleApplication1\ACMatcher.h(16,13): warning C4101: “parent”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\翟伟伟-五子棋代码\ConsoleApplication1\ACMatcher.h(18,13): warning C4101: “failure”: 未引用的局部变量
+  ConsoleApplication1.vcxproj -> C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\翟伟伟-五子棋代码\x64\Debug\ConsoleApplication1.exe

@@ -1,0 +1,32 @@
+﻿  ACMatcher.cpp
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.h(17,14): warning C4101: “character”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.h(16,13): warning C4101: “parent”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.h(18,13): warning C4101: “failure”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.cpp(19,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.cpp(64,23): warning C4018: “<”: 有符号/无符号不匹配
+  AI.cpp
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.h(17,14): warning C4101: “character”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.h(16,13): warning C4101: “parent”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.h(18,13): warning C4101: “failure”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\AI.cpp(52,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\AI.cpp(53,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\AI.cpp(172,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\AI.cpp(177,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\AI.cpp(248,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\AI.cpp(253,23): warning C4018: “<”: 有符号/无符号不匹配
+  Game.cpp
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.h(17,14): warning C4101: “character”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.h(16,13): warning C4101: “parent”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.h(18,13): warning C4101: “failure”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\Game.cpp(53,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Judge.cpp
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.h(17,14): warning C4101: “character”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.h(16,13): warning C4101: “parent”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.h(18,13): warning C4101: “failure”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\Judge.cpp(109,27): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.h(17,14): warning C4101: “character”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.h(16,13): warning C4101: “parent”: 未引用的局部变量
+C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\ConsoleApplication1\ACMatcher.h(18,13): warning C4101: “failure”: 未引用的局部变量
+  正在生成代码...
+  ConsoleApplication1.vcxproj -> C:\Users\翟伟伟\Desktop\雁栖湖学习资料\C++作业\ConsoleApplication1\Debug\ConsoleApplication1.exe
